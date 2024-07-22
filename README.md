@@ -56,3 +56,4 @@ The dataset used is the ISOT Fake News Dataset, comprising two CSV files:
 ## Conclusion
 
 This project demonstrates the application of machine learning and NLP in detecting fake news, offering a valuable tool in combating misinformation.
+
