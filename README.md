@@ -1,9 +1,9 @@
-# Fake-News-Detection-FlaskApp
+# Reliable-News-System-FlaskApp
 Fake News Detection Web App
 
 ## Overview
 
-The Fake News Detection project aims to classify news articles as either fake or real using machine learning techniques. This project addresses the widespread issue of misinformation by leveraging Natural Language Processing (NLP) to analyze and predict the authenticity of news content.
+This project aims to classify news articles as either fake or real using machine learning techniques. This project addresses the widespread issue of misinformation by leveraging Natural Language Processing (NLP) to analyze and predict the authenticity of news content.
 
 ## Dataset
 
